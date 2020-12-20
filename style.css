@@ -1,0 +1,41 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.outer{
+	width:800px;
+	height: 800px;
+	/*border: 1px solid black;*/
+	margin: 0px auto;
+
+}
+
+.outer h1{
+	text-align: center;
+}
+p{
+	font-size: 15px;
+}
+.border{
+	width:100%;
+	padding: 4px;
+	background-color: rgb(179, 179, 179);
+	border:0px solid black;
+	font-weight: bold; 
+	font-size: 15px;  
+} 
+
+th, td {
+  padding: 0px;
+  font-size: 15px;
+}
+th {
+  text-align: left;
+}
+
+ul{
+	padding: 1px;
+	margin-left: 18px;
+	font-size: 15px;
+}
